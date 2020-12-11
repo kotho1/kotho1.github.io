@@ -205,7 +205,7 @@ a.skip{
     transition: all 0.3s;
   }
   button {
-    background-color: #45A29E; /* Green */
+    background-color: #448482; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
@@ -230,6 +230,10 @@ a.skip{
     left: 0;
     top: 0;
     width: 10%;
+  }
+
+  #contact {
+    background-color: #448482;
   }
 
   h2.exp, div.exp {
