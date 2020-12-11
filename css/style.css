@@ -96,6 +96,7 @@ p {
 
 a.skip{
     background: white;
+    color: black;
     left: 0;
     padding: 6px;
     position: absolute;
